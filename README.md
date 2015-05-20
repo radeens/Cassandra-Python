@@ -1,6 +1,7 @@
-##Python Application for Cassandra Databases.
+#Python Application for Cassandra Databases.
 
-##Resources:          Ubuntu 14.x.x 
+##Resources:          
+                      Ubuntu 14.x.x 
                       Cassandra 2.0
                       Cassandra Driver
                       Python 2.7.0
