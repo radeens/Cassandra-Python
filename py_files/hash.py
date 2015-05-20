@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-#!/usr/bin/env python
-
 # Copyright 2013-2014 DataStax, Inc.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -50,13 +48,7 @@ def main():
 	
     rows = session.execute("""Select * from table1""")
 	
-	
-	
-
-
-
-
-
 
 if __name__ == "__main__":
     main()
+    
