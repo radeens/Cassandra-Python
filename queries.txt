@@ -1,0 +1,5 @@
+SELECT * FROM clicks 
+WHERE OwnerId = '1' AND AdId = '3';
+
+SELECT * FROM clicks 
+WHERE OwnerId = '2';
